@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mypaddiapp.com	TRUE	/	FALSE	1999999999	ci_session	6c1e918217172cce054a5cc9db4e2ca160c96ba8
+

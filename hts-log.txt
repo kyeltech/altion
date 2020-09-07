@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Aug 2020 09:47:56 at http://mypaddiapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mypaddiapp.com/ -O1 "C:\Users\Made\Videos\kyel\Altion Security" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:47:59	Warning: 	File not parsed, looks like binary: mypaddiapp.com/robots.txt
+09:49:52	Warning: 	Found for mypaddiapp.com/login/
+09:49:52	Warning: 	File has moved from mypaddiapp.com/login/ to http://www.mypaddiapp.com/
+09:52:50	Warning: 	Retry after error -2 (Receive Time Out) at link mypaddiapp.com/assets/images/landing_page/Mypaddi-features.gif (from mypaddiapp.com/)
+10:04:42	Warning: 	Retry after error -4 (Incorrect length (8803556 Bytes, 21566314 expected)) at link mypaddiapp.com/assets/images/landing_page/Mypaddi-features.gif (from mypaddiapp.com/)
+10:04:42	Error: 	"Connect Error" (-4) after 2 retries at link mypaddiapp.com/assets/images/landing_page/Mypaddi-features.gif (from mypaddiapp.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 45 seconds : 43 links scanned, 38 files written (2150652 bytes overall) [10710493 bytes received at 10657 bytes/sec], 338597 bytes transferred using HTTP compression in 13 files, ratio 24%, 3.5 requests per connection
+(1 errors, 5 warnings, 0 messages)
